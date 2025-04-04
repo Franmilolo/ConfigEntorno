@@ -1,0 +1,4 @@
+entorno/
+__pycache__/
+*.py[cod]
+Thumbs.db
