@@ -5,4 +5,4 @@ Es un pequeño juego donde el usuario debe adivinar un número aleatorio entre 1
 - Python 3.13.2
 
 ## Librerías externas
-- requests 2.23.3
+- requests 2.32.3
